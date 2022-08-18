@@ -18,7 +18,7 @@
 #### 7. Use the body to explain what and why vs. how
 	어떻게 했냐 대신 무엇을 했고 왜 했는지를 body에 담는다.
 
-## 2. Udacity style
+## 2. Udacity Style
 
 #### 1. Structure
 ```
@@ -28,13 +28,15 @@ body
 
 footer
 ```
-#### 2. 
+#### 2.  Commit Type
+* feat : 기능 추가
+* fix
 
 ## References.
 
  [How to write a git commit message](https://cbea.ms/git-commit/)
  [Udacity git commit message style guide](https://udacity.github.io/git-styleguide/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjI0MDc0Niw5OTQxOTE4NTIsLTExNz
+eyJoaXN0b3J5IjpbMTg4MDgzNDY4NSw5OTQxOTE4NTIsLTExNz
 Y4MzA1NTMsLTYxMTQ5OTE4MCwtMjA4ODc0NjYxMl19
 -->
