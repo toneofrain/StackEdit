@@ -21,13 +21,20 @@
 ## 2. Udacity style
 
 #### 1. Structure
+```
+type: Subject 
 
+body 
+
+footer
+```
+#### 2. 
 
 ## References.
 
  [How to write a git commit message](https://cbea.ms/git-commit/)
  [Udacity git commit message style guide](https://udacity.github.io/git-styleguide/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ2NTgzNTMsOTk0MTkxODUyLC0xMT
-c2ODMwNTUzLC02MTE0OTkxODAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTQyNjI0MDc0Niw5OTQxOTE4NTIsLTExNz
+Y4MzA1NTMsLTYxMTQ5OTE4MCwtMjA4ODc0NjYxMl19
 -->
