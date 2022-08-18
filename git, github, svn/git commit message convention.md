@@ -34,14 +34,16 @@ footer
 * docs : 문서 수정
 * style : 코드 포맷팅이나 세미콜론 누락 교정 등 코드 수정이 없는 경우
 * refactor : 리팩토링
-* test : 테스트 코드 추가 혹
-* 
+* test : 테스트 코드 추가 혹은 리팩터링 등 프로덕션 코드의 수정이 없는 경우
+* chore : 빌드 업무, 패키지 매니저 수정
+
+#### 3.  
 
 ## References.
 
  [How to write a git commit message](https://cbea.ms/git-commit/)
  [Udacity git commit message style guide](https://udacity.github.io/git-styleguide/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjkzOTU4NSw5OTQxOTE4NTIsLTExNz
-Y4MzA1NTMsLTYxMTQ5OTE4MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNDk5OTQ3NDczLDk5NDE5MTg1MiwtMTE3Nj
+gzMDU1MywtNjExNDk5MTgwLC0yMDg4NzQ2NjEyXX0=
 -->
