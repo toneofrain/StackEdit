@@ -30,13 +30,18 @@ footer
 ```
 #### 2.  Commit Type
 * feat : 기능 추가
-* fix
+* fix : 버그 수정
+* docs : 문서 수정
+* style : 코드 포맷팅이나 세미콜론 누락 교정 등 코드 수정이 없는 경우
+* refactor : 리팩토링
+* test : 테스트 코드 추가 혹
+* 
 
 ## References.
 
  [How to write a git commit message](https://cbea.ms/git-commit/)
  [Udacity git commit message style guide](https://udacity.github.io/git-styleguide/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDgzNDY4NSw5OTQxOTE4NTIsLTExNz
+eyJoaXN0b3J5IjpbLTg5NjkzOTU4NSw5OTQxOTE4NTIsLTExNz
 Y4MzA1NTMsLTYxMTQ5OTE4MCwtMjA4ODc0NjYxMl19
 -->
