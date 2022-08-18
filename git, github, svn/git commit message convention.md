@@ -15,8 +15,14 @@
 #### 5. Use the imprative mood in the subject line
 	subject는 현재형 명령문으로 작성한다.
 #### 6. Wrap the body at 72 characters
-#### 7. Use the body to explain 
+#### 7. Use the body to explain what and why vs. how
+	어떻게 했냐 대신 무엇을 했고 왜 했는지를 body에 담는다.
+
+## 2. 
+
+## References.
+ [How to write a git commit mess
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjQzNzQ0MSw5OTQxOTE4NTIsLTExNz
-Y4MzA1NTMsLTYxMTQ5OTE4MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTExMjg3OTEzMzQsOTk0MTkxODUyLC0xMT
+c2ODMwNTUzLC02MTE0OTkxODAsLTIwODg3NDY2MTJdfQ==
 -->
