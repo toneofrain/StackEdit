@@ -44,12 +44,13 @@ footer
 
 ## 3.
 
-아직 Udacity의 스타일을 따르되 아직 영어로 작성하는 것이 익숙치 않아 한글로 먼저 연습을 해보려고 한다. 추후 팀 프로젝트에도 
+아직 Udacity의 스타일을 따르되 아직 영어로 작성하는 것이 익숙치 않아 한글로 먼저 연습을 해보려고 한다. 추후 팀 프로젝트에도 Udacity style을 바탕으로 컨벤션을 정할 것을 제안할 것이다.
+
 ## References.
 
  [How to write a git commit message](https://cbea.ms/git-commit/)
  [Udacity git commit message style guide](https://udacity.github.io/git-styleguide/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTE0MzU5LDk5NDE5MTg1MiwtMTE3Nj
+eyJoaXN0b3J5IjpbNDQzMjExNjk5LDk5NDE5MTg1MiwtMTE3Nj
 gzMDU1MywtNjExNDk5MTgwLC0yMDg4NzQ2NjEyXX0=
 -->
