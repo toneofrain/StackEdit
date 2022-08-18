@@ -5,10 +5,10 @@
 ## 1. The Seven rules of a great git commit message
 
 ##### 1. Seperate subject from body with a body line
-	body는 필수가 아니며 가능한한 간결하게 subject 한 줄로 쓰는 것도 좋다.
+	body는 필수가 아니며 가능한 간결하게 subject 한 줄로 쓰는 것도 좋다.
 ##### 2. Limit the subject line to 50 characters
-		d
+	최대 제한은 72자이나 50자 이내를 염두에 두고 작성한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODQ2MTc5NSw5OTQxOTE4NTIsLTExNz
+eyJoaXN0b3J5IjpbMTI5OTY5Mjc2Nyw5OTQxOTE4NTIsLTExNz
 Y4MzA1NTMsLTYxMTQ5OTE4MCwtMjA4ODc0NjYxMl19
 -->
