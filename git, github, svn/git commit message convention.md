@@ -12,8 +12,11 @@
 #### 3.Capitalize the subject line
 #### 4. Do not end the subject line with a period
 	subject는 항상 대문자로 시작하며 마침표를 찍지 않는다.
-####
+#### 5. Use the imprative mood in the subject line
+	subject는 현재형 명령문으로 작성한다.
+#### 6. Wrap the body at 72 characters
+#### 7. Use the body to explain 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njg3MjUzOTksOTk0MTkxODUyLC0xMT
-c2ODMwNTUzLC02MTE0OTkxODAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTc2NjQzNzQ0MSw5OTQxOTE4NTIsLTExNz
+Y4MzA1NTMsLTYxMTQ5OTE4MCwtMjA4ODc0NjYxMl19
 -->
