@@ -8,14 +8,14 @@
 
 ## 1.
 
-1. 스프링
+#### 1. 스프링
 
-2. 자바/OOP
+#### 2. 자바/OOP
 
-3. CS
+#### 3. CS
 
-4. 알고리즘/파이썬
-	
+#### 4. 알고리즘/파이썬
+ * [프로그래머스 레벨1 최소직사각형](
 
 ## 2. 
 
@@ -35,7 +35,7 @@
 1. 목표 달성
 2. 시간 관리 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTc2NTAzOCw4MzQzNDI2NTAsMTMwMj
+eyJoaXN0b3J5IjpbLTQ3ODQ4MTkyNiw4MzQzNDI2NTAsMTMwMj
 czNDQwOSw4Mjk5OTA3NTAsLTc3MDQ4MTQ1MCw3MzA5OTgxMTZd
 fQ==
 -->
