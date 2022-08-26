@@ -25,11 +25,11 @@ class Solution(object):
 
 ### 5. 최종
 
-``` java
+``` python
 
 ```
 
-### 6. 자바
+### 6. 파이썬
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDIzODk5NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTU3MjA0NzI4OSw3MzA5OTgxMTZdfQ==
 -->
