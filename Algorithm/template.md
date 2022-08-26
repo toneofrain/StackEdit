@@ -1,9 +1,22 @@
-### 1. 문제번호/링크
+### 1. [leetcode #937 Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) 
 
 ### 2. 처음 풀이
 
-``` java
-
+``` python
+class Solution(object):
+    def reorderLogFiles(self, logs):
+        """
+        :type logs: List[str]
+        :rtype: List[str]
+        """
+        
+        letter_logs = [log for log in logs if log.split()[1].isalpha()]
+        digit_logs = [log for log in logs if log.split()[1].isdigit()]
+        
+        letter_logs.sort(key=lambda x: (x.split()[1:], x.split()[0]))        
+        letter_logs.extend(digit_logs)
+        
+        return letter_logs
 ```
 
 ### 3. 문제점 / 해결책
@@ -18,5 +31,5 @@
 
 ### 6. 자바
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDAzNTIzNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTkxNDIzODk5NSw3MzA5OTgxMTZdfQ==
 -->
