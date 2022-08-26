@@ -32,7 +32,9 @@
 
 ## 5.
 
+1. 목표 달성
+2. 시간 관리 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwMjA2MjUzLDEzMDI3MzQ0MDksODI5OT
+eyJoaXN0b3J5IjpbODM0MzQyNjUwLDEzMDI3MzQ0MDksODI5OT
 kwNzUwLC03NzA0ODE0NTAsNzMwOTk4MTE2XX0=
 -->
