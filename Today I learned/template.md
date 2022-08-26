@@ -15,7 +15,7 @@
 #### 3. CS
 
 #### 4. 알고리즘/파이썬
- * [프로그래머스 레벨1 최소직사각형](
+ * [프로그래머스 레벨1 최소직사각형]()
 
 ## 2. 
 
@@ -35,7 +35,7 @@
 1. 목표 달성
 2. 시간 관리 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODQ4MTkyNiw4MzQzNDI2NTAsMTMwMj
-czNDQwOSw4Mjk5OTA3NTAsLTc3MDQ4MTQ1MCw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbLTExNzQzOTU1NTksODM0MzQyNjUwLDEzMD
+I3MzQ0MDksODI5OTkwNzUwLC03NzA0ODE0NTAsNzMwOTk4MTE2
+XX0=
 -->
