@@ -15,7 +15,7 @@
 3. CS
 
 4. 알고리즘/파이썬
-
+	
 
 ## 2. 
 
@@ -35,6 +35,7 @@
 1. 목표 달성
 2. 시간 관리 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0MzQyNjUwLDEzMDI3MzQ0MDksODI5OT
-kwNzUwLC03NzA0ODE0NTAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTU4NTc2NTAzOCw4MzQzNDI2NTAsMTMwMj
+czNDQwOSw4Mjk5OTA3NTAsLTc3MDQ4MTQ1MCw3MzA5OTgxMTZd
+fQ==
 -->
