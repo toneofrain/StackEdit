@@ -1,27 +1,34 @@
-### 1. [leetcode #937 Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) 
+
+### 1. [2022 KAKAO TECH INTERNSHIP 성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) 
 
 ### 2. 처음 풀이
 
 ``` python
-class Solution(object):
-    def reorderLogFiles(self, logs):
-        """
-        :type logs: List[str]
-        :rtype: List[str]
-        """
+from collections import defaultdict
+
+def solution(survey, choices):
+    indicators = (('R', 'T'), ('C', 'F'), ('J', 'M'), ('A', 'N'))
+    scores = defaultdict(int)
+    type = []
+    
+    for s, c in zip(survey, choices):
+        score = c - 4
+        scores[s[0]] -= score
+        scores[s[1]] += score
+    
+    for i in indicators:
+        if scores[i[1]] > scores[i[0]]:
+            type.append(i[1])
+            continue
+    
+        type.append(i[0])
         
-        letter_logs = [log for log in logs if log.split()[1].isalpha()]
-        digit_logs = [log for log in logs if log.split()[1].isdigit()]
-        
-        letter_logs.sort(key=lambda x: (x.split()[1:], x.split()[0]))        
-        letter_logs.extend(digit_logs)
-        
-        return letter_logs
+    return "".join(type)
 ```
 
 ### 3. 문제점 / 해결책
 
-### 4. 레퍼런스 코드
+### 4. reference
 
 ### 5. 최종
 
@@ -31,5 +38,6 @@ class Solution(object):
 
 ### 6. 파이썬
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjA0NzI4OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTk2NzE0OTI0OSwxNTcyMDQ3Mjg5LDczMD
+k5ODExNl19
 -->
