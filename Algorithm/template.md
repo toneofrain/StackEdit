@@ -18,19 +18,20 @@ class Solution(object):
         
         return letter_logs
 ```
+### 3. 시간복잡도/공간복잡도
 
-### 3. 문제점 / 해결책
+### 4. 문제점 / 해결책
 
-### 4. 레퍼런스 코드
+### 5. 레퍼런스 코드
 
-### 5. 최종
+### 6. 최종
 
 ``` python
 
 ```
 
-### 6. 파이썬
+### 7. 파이썬
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjA0NzI4OSwxNTcyMDQ3Mjg5LDczMD
+eyJoaXN0b3J5IjpbMTEwMDY1MjYxNywxNTcyMDQ3Mjg5LDczMD
 k5ODExNl19
 -->
