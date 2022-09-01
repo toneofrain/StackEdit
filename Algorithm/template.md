@@ -22,7 +22,7 @@ class Solution(object):
 
 ### 4. 문제점 / 해결책
 
-### 5. 레퍼런스 코드
+### 5. reference
 
 ### 6. 최종
 
@@ -32,6 +32,6 @@ class Solution(object):
 
 ### 7. 파이썬
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDY1MjYxNywxNTcyMDQ3Mjg5LDczMD
+eyJoaXN0b3J5IjpbMTA3NjY3Njg5NCwxNTcyMDQ3Mjg5LDczMD
 k5ODExNl19
 -->
